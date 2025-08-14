@@ -1,0 +1,11 @@
+nm = "banana"
+let = input()
+lst = []
+if let in nm:
+    cont = nm.count(let)
+    for i in int(cont):
+        lst.append
+else:
+    print("Letra não está no nome")
+#se a letra estiver no nome, informar posição
+#se não estiver informar -1
